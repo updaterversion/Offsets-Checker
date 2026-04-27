@@ -600,6 +600,7 @@ namespace Offsets {
     }
 
     namespace Workspace {
+         inline constexpr uintptr_t GravityContainer = 0x0;
          inline constexpr uintptr_t CurrentCamera = 0x490;
          inline constexpr uintptr_t DistributedGameTime = 0x4b0;
          inline constexpr uintptr_t ReadOnlyGravity = 0x9c0;
